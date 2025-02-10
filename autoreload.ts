@@ -7,3 +7,4 @@ mp.events.add("playerWeaponShot", () => {
         return;
     }
 })
+// Created By Zero Hoffman
